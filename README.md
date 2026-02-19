@@ -1,5 +1,7 @@
 # 🛍️ Projeto 3 – Conversão de Design para Página de Compras
 
+![Preview do Projeto](./Img/Apresentação.png)
+
 ## 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido com o objetivo de transformar um design de cliente em uma página web funcional utilizando apenas **HTML5 e CSS3**.
